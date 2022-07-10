@@ -1,15 +1,26 @@
 .table1_tr1{
     background-color:royalblue;
     color: white;
+    
 }
 
 table, tr{
     color: black;
     font-weight: bold;
+    margin: auto;
+    border: 1px solid;
+    padding: 2px;
 }
-
-table, tr, td {
+td{
+    margin: auto;
+    border: 1px solid;
+    padding: 2px;
+}
+td button{
+    width: 100%;
+}
+/* table, tr, td {
     margin: auto;
     border: 1px solid;
     padding: 5px;
-}
+} */
