@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import axios from 'axios'
+import './ListStyle.css'
 export class AlbumList extends Component {
     constructor(props) {
         super(props)
